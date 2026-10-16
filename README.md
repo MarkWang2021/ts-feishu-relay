@@ -2,6 +2,8 @@
 
 Tailscale → 飞书中继：在飞书群里直接管理 Tailscale 设备。
 
+配套教程：[《飞书群里 @ 一下，Tailscale 全套管理》](https://muse.ai/s/tailscale-db6qxhexxxnbab)（微信公众号文章）
+
 ## 功能
 
 - **Tailscale 事件推送**：新设备待审批时，自动推送通知到飞书群
